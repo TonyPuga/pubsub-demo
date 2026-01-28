@@ -1,0 +1,152 @@
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\obj\Debug\PubSub-Demo.csproj.AssemblyReference.cache
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\obj\Debug\PubSub-Demo.csproj.SuggestedBindingRedirects.cache
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\obj\Debug\PubSub-Demo.exe.config
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\obj\Debug\PubSub-Demo.csproj.CoreCompileInputs.cache
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\grpc_csharp_ext.x86.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\grpc_csharp_ext.x64.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\libgrpc_csharp_ext.x64.so
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\libgrpc_csharp_ext.x64.dylib
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\PubSub-Demo.exe.config
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\PubSub-Demo.exe
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\PubSub-Demo.pdb
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Api.CommonProtos.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Api.Gax.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Api.Gax.Grpc.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Apis.Auth.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Apis.Core.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Apis.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Cloud.Iam.V1.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Cloud.PubSub.V1.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Protobuf.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Auth.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Core.Api.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Core.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Net.Client.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Net.Common.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Newtonsoft.Json.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\System.Buffers.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\System.Memory.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\System.Net.Http.WinHttpHandler.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\System.Numerics.Vectors.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Api.CommonProtos.pdb
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Api.CommonProtos.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Api.Gax.pdb
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Api.Gax.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Api.Gax.Grpc.pdb
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Api.Gax.Grpc.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Apis.pdb
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Apis.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Apis.Auth.pdb
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Apis.Auth.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Apis.Core.pdb
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Apis.Core.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Cloud.Iam.V1.pdb
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Cloud.Iam.V1.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Cloud.PubSub.V1.pdb
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Cloud.PubSub.V1.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Protobuf.pdb
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Protobuf.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Auth.pdb
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Auth.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Core.pdb
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Core.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Core.Api.pdb
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Core.Api.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Net.Client.pdb
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Net.Client.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Net.Common.pdb
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Net.Common.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\Newtonsoft.Json.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\System.Buffers.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\System.Memory.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\System.Net.Http.WinHttpHandler.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\System.Numerics.Vectors.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\obj\Debug\PubSub-D.CA31F054.Up2Date
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\obj\Debug\PubSub-Demo.exe
+D:\reps\Sodimac\PubSub-Demo\PubSub-Demo\obj\Debug\PubSub-Demo.pdb
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\PubSub-Demo.exe.config
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\PubSub-Demo.exe
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\PubSub-Demo.pdb
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Api.CommonProtos.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Api.Gax.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Api.Gax.Grpc.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Apis.Auth.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Apis.Core.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Apis.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Cloud.Iam.V1.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Cloud.PubSub.V1.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Protobuf.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Auth.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Core.Api.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Core.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Net.Client.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Net.Common.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Newtonsoft.Json.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\System.Buffers.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\System.Memory.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\System.Net.Http.WinHttpHandler.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\System.Numerics.Vectors.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Api.CommonProtos.pdb
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Api.CommonProtos.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Api.Gax.pdb
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Api.Gax.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Api.Gax.Grpc.pdb
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Api.Gax.Grpc.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Apis.pdb
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Apis.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Apis.Auth.pdb
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Apis.Auth.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Apis.Core.pdb
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Apis.Core.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Cloud.Iam.V1.pdb
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Cloud.Iam.V1.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Cloud.PubSub.V1.pdb
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Cloud.PubSub.V1.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Protobuf.pdb
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Google.Protobuf.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Auth.pdb
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Auth.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Core.pdb
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Core.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Core.Api.pdb
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Core.Api.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Net.Client.pdb
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Net.Client.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Net.Common.pdb
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Grpc.Net.Common.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\Newtonsoft.Json.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\System.Buffers.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\System.Memory.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\System.Net.Http.WinHttpHandler.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\System.Numerics.Vectors.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\obj\Debug\PubSub-Demo.csproj.AssemblyReference.cache
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\obj\Debug\PubSub-Demo.csproj.SuggestedBindingRedirects.cache
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\obj\Debug\PubSub-Demo.exe.config
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\obj\Debug\PubSub-Demo.csproj.CoreCompileInputs.cache
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\obj\Debug\PubSub-D.CA31F054.Up2Date
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\obj\Debug\PubSub-Demo.exe
+D:\SODIMAC\Atencion a SODIMAC\2026\00 Integracin SAP\PubSub-Demo\PubSub-Demo\obj\Debug\PubSub-Demo.pdb
